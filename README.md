@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Filipe Pena
 
-<!--
-**Filipe20/Filipe20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Devops | Network Analyst | Python Developer
 
-Here are some ideas to get you started:
+💻 Desenvolvimento de ferramentas para ambientes de telecom  
+🔬 Foco em análise topológica e engenharia de redes  
+🐍 Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre
+
+Desenvolvimento de soluções voltadas para automação, análise e validação de ambientes de telecomunicações.
+
+Tópicos principais:
+
+- Análise topológica de redes
+- Monitoramento
+- Automação de configuração
+- Análise de dados como log e captura de pacotes
+- Desenvolvimentos de APIs
+
+Trabalho com ambientes críticos, priorizando confiabilidade, performance e rastreabilidade.
+
+---
+
+## 🛠️ Stack Técnica
+
+### 👨‍💻 Linguagens
+- Python (principal)
+- C++
+
+### 🔧 Automação & Protocolos
+- SSH
+- SNMP
+- Netconf
+
+### 🌐 Redes & Telecom
+- Análise de prefixos
+- Análise topológica
+- Monitoramento
+- Configuração de equipamentos
+
+### 📊 Análise de Dados
+- Processamento de logs
+- Análise de eventos
+- Captura e inspeção de pacotes (PCAP)
+
+---
+
+## 🧠 Áreas de Especialização
+
+- Automação de Redes
+- Engenharia de Infraestrutura de Telecomunicações
+- Análise de Protocolos de Roteamento
+- Troubleshooting de Redes Orientado a Dados
+- Observabilidade de Redes
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Filipe%20Pena-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/filipe-pena-63008513a)
